@@ -29,3 +29,9 @@ To run application -> ```ruby ./parser.rb webserver.log```
 ## Testing
 
 To execute test, simple run ```rspec``` in project directory.
+
+## Improvements
+
+- We can save the result of this to csv file, for example - each table would download separate csv file
+- Create another list of most used IP adresses
+  
